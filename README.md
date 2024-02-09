@@ -1,3 +1,40 @@
 # AshCMS-Forge
 
-AshCMS is an innovative open-source content management system (CMS) library designed by Ashish, built on the powerful combination of React and Node.js. This cutting-edge solution offers developers a modern and efficient way to create dynamic websites and applications. With its intuitive user interface and extensive feature set, including content creation, user management, and plugin support, AshCMS streamlines the development process, allowing you to focus on building exceptional digital experiences. Whether you're a seasoned React developer or new to Node.js, AshCMS provides the flexibility and scalability you need to bring your projects to life. Join our vibrant community and unleash the full potential of AshCMS for your next web venture!
+# AshCMS
+
+AshCMS is an open-source content management system (CMS) library developed by Ashish, leveraging the power of React and Node.js. It provides developers with a robust framework for building dynamic websites and web applications with ease.
+
+## Features
+
+- **Modern Stack:** Built on React and Node.js, AshCMS offers a modern and efficient development environment.
+- **User-friendly Interface:** Intuitive user interface for content creation, editing, and management.
+- **Flexible and Extensible:** Easily customizable with plugins and themes to suit your project's needs.
+- **Role-based Access Control:** Granular control over user permissions with role-based access control.
+- **Scalable:** Built to scale, whether you're managing a small blog or a large enterprise application.
+
+## Getting Started
+
+To get started with AshCMS, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/ashish/ashcms.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Visit `http://localhost:3000` in your browser to access the AshCMS interface.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to AshCMS, please follow these guidelines:
+
+- Fork the repository and create a new branch for your feature or bug fix.
+- Make your changes and ensure that tests pass.
+- Submit a pull request detailing your changes and any relevant information.
+
+## Community
+
+Join our community to stay up-to-date with the latest news, updates, and discussions:
+
+- [GitHub Discussions](https://github.com/ashish/ashcms/discussions)
+
+## License
+
+AshCMS is open-source software licensed under the [MIT License](LICENSE).
