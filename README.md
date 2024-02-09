@@ -1,7 +1,5 @@
 # AshCMS-Forge
 
-# AshCMS
-
 AshCMS is an open-source content management system (CMS) library developed by Ashish, leveraging the power of React and Node.js. It provides developers with a robust framework for building dynamic websites and web applications with ease.
 
 ## Features
