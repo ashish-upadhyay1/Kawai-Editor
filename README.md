@@ -15,9 +15,24 @@ AshCMS is an open-source content management system (CMS) library developed by As
 To get started with AshCMS, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/ashish/ashcms.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Visit `http://localhost:3000` in your browser to access the AshCMS interface.
+   - There will be two directories
+      - `backend`
+      - `frontend`
+2. Install dependencies in both directories: `npm install`
+
+How to run after installation ?
+
+*`Frontend`*
+   - Navigate to the `frontend` and run the command: `npm start`
+   - Then you can access 
+      - http://localhost:3000
+
+*`Backend`*
+   - Navigate to the `backend` and run the command: `npm start`
+   - Then you can access 
+      - http://localhost:3000
+
+
 
 ## Contributing
 
